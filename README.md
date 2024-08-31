@@ -38,7 +38,7 @@ git clone https://github.com/Philani56/Advanced-Gesture-Recognition
 ```
 
 ```bash
-python gesture_recognition.py
+python main.py
 ```
 - Ensure your webcam is connected and working.
 
